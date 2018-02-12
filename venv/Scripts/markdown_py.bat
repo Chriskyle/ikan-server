@@ -1,0 +1,1 @@
+@"c:\users\chriskyle\desktop\ikan_server\venv\scripts\python.exe" "c:\users\chriskyle\desktop\ikan_server\venv\Scripts\markdown_py" %*
